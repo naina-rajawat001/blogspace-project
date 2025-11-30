@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0; 
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.div {
+    padding-top: 100px;
+}
+h3 {
+    margin: 20px;
+
+}
+
+p {
+    margin: 20px;
+}
+
+nav {
+    font-size: 30px;
+    background-color: lightgoldenrodyellow;
+    width: 100%;
+    height: 75px;
+    text-align: center;
+    position: fixed;
+    top: 0;
+}
+
+
+form {
+    padding: 80px 10px 10px;
+    display: grid;
+    background-color: lightblue;
+}
+
+input,
+textarea {
+    margin-bottom: 10px; 
+}
+
+
+#submit {
+    padding: 10px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
