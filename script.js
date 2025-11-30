@@ -56,9 +56,3 @@ fetch(url)
     renderPosts()
 })
 .catch(err => err)
-
-
-
-
-
-   
